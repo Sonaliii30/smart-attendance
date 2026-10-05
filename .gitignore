@@ -17,3 +17,20 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+# Node
+node_modules/
+
+# Java / Spring
+target/
+*.class
+
+# Env files
+.env
+application.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
